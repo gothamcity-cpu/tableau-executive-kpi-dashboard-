@@ -107,31 +107,7 @@ For full field descriptions, see the **Data Dictionary** included below.
 ```
 
 ---
-
-## ⚙️ 5. How to Reproduce
-
-1. **Clone the Repo**
-   ```bash
-   git clone https://github.com/gothamcity-cpu/tableau-executive-kpi-dashboard-.git
-   cd ev-population-dashboard
-   ```
-
-2. **Open Tableau Desktop / Public Desktop**
-
-3. **Load the workbook**
-   ```
-   tableau/Book1_v2025.1.twbx
-   ```
-
-4. **If prompted**, reconnect the data source to:
-   ```
-   data/raw/Electric_Vehicle_Population_Data.xlsx
-   ```
-
-5. Explore filters, maps, and visuals.
-
-
-## 🧠 6. Skills Demonstrated
+## 🧠 5. Skills Demonstrated
 
 **Technical Skills**
 - Tableau Desktop / Tableau Public  
@@ -151,7 +127,7 @@ For full field descriptions, see the **Data Dictionary** included below.
 
 ---
 
-## 🚀 7. Future Enhancements
+## 🚀 6. Future Enhancements
 
 - Build predictive models for EV adoption (Python + Tableau)  
 - Integrate real-time utility usage data  
@@ -160,7 +136,7 @@ For full field descriptions, see the **Data Dictionary** included below.
 
 ---
 
-# 📚 8. Data Dictionary
+# 📚 7. Data Dictionary
 
 ## Table: electric_vehicle_population
 
